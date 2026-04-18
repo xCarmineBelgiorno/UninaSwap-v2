@@ -1,0 +1,30 @@
+# Maven build output
+target/
+*.war
+*.jar
+*.class
+
+# IDE
+.idea/
+*.iml
+.eclipse/
+.settings/
+.classpath
+.project
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Jetty work
+work/
+
+# Script temporanei
+ResetMySQL.ps1
+
+# Tools e dipendenze node
+tools/
+node_modules/
